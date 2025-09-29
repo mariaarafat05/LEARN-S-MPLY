@@ -3,9 +3,10 @@
 <html>
 
     <body>
-        
+       
+       <h1>learn Simply</h1>
+       <hr>
         <p>
-            <h1>learn Simply</h1>
             <mark>Welcome to my website all about learning programming</mark>
             <h2><u>What İs Programming?</u></h2>
             <i>Programming is a way to tell computers what to do. it's like giving them a list of instructions to follow.</i>
